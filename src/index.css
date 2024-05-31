@@ -9,3 +9,9 @@
     @apply font-rubik text-navy-blue bg-soft-blue-white;
   }
 }
+
+@layer components {
+  .place:not(:last-child) {
+    @apply border-b border-cool-gray/20;
+  }
+}
