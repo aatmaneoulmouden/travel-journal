@@ -6,6 +6,6 @@
 
 @layer base {
   body {
-    @apply font-rubik;
+    @apply font-rubik text-navy-blue bg-soft-blue-white;
   }
 }

@@ -14,7 +14,7 @@ export default {
     extend: {
       colors: {
         "primary": "#2E8BC0",
-        "text": "#1A3A57",
+        "navy-blue": "#1A3A57",
         "soft-blue-white": "#F3F9FB",
       }
     },
